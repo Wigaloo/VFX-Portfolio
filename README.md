@@ -26,8 +26,17 @@
 
 - ##  Thunder Dash Effect (W.I.P) - (2021)
 
+![Desktop 2024 02 03 - 16 44 05 08](https://github.com/Wigaloo/VFX-Portfolio/assets/147951408/f3839fd5-fa79-4833-ab14-2715ae0ef82c)
+
+
 
 
 - ##  Grab Effect (W.I.P) - (2021)
 
 ![Desktop 2024 02 03 - 16 10 46 05](https://github.com/Wigaloo/VFX-Portfolio/assets/147951408/ef7d83a0-a9c7-41fb-ae64-f31287370b5b)
+
+
+
+
+
+-- ##
