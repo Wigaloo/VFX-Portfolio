@@ -1,7 +1,7 @@
 # VFX Portfolio
- 
+ -------------------------------
  ### Showcase of my VFX Creations
-
+--------------------------------------------------------------
 - Explosion Effect
 
 
